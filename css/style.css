@@ -1,0 +1,36 @@
+.container-cv {
+    max-width: 984px;
+    margin: 30px auto;
+}
+
+#curriculum-vitae img {
+	float: right;
+}
+
+.curriculum-vitae-body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 16px;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+
+.container-cv h1,
+.container-cv h2 {
+    padding-bottom: 0.3em;
+    font-size: 2em;
+    border-bottom: 1px solid #eaecef;
+	margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.container-cv b {
+    font-weight: 600;
+}
+
+.container-cv a {
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
