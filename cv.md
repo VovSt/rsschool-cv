@@ -9,7 +9,7 @@ I am an economist. I decided for myself to try a new direction of frontend devel
   * CSS
   * JS
   
-
+My level of English A2.
   
   
   
